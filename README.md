@@ -1,4 +1,14 @@
-# DOCTRAI - Medical Documentation Assistant
+# DOCTRAI - Medical Documentation Assistant  
+
+## Team & Contributions
+
+This was a collaborative final year project (4-member team).
+
+### My Specific Contributions | Pipeline documentation, system integration testing, evaluation |
+- Documented the complete system architecture (ASR → NLP → LLM → PDF pipeline)
+- Conducted end-to-end integration testing across all pipeline components
+- Measured and reported system metrics: 70.37% ASR accuracy, 67% symptom extraction precision, 50% reduction in documentation time
+- Co-authored the published paper on the system at ICCAMS 2025
 
 DOCTRAI (Documentation and Optimization of Comprehensive Transcript Records with Assistive Intelligence) is an intelligent medical documentation system that helps healthcare professionals transcribe, analyze, and generate medical reports from doctor-patient conversations.
 
